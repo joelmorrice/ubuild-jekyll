@@ -7,7 +7,6 @@ sections:
 - type: jekyll-pages
   label: forestry-pages
   create: all
-  match: "**/*"
 - type: directory
   path: ''
   label: forestry-directory
